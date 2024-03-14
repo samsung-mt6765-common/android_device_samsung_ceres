@@ -10,6 +10,10 @@ $(call inherit-product, device/samsung/mt6765-common/mt6765.mk)
 # Inherit the proprietary files
 $(call inherit-product, vendor/samsung/ceres/ceres-vendor.mk)
 
+# Rootdir
+PRODUCT_PACKAGES += \
+    init.mt6765.rc
+
 # Soong Namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
