@@ -6,6 +6,9 @@
 
 DEVICE_PATH := device/samsung/ceres
 
+# Asserts
+TARGET_OTA_ASSERT_DEVICE := a04e,ceres,f04,m04
+
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 33554432
 
