@@ -12,7 +12,8 @@ $(call inherit-product, vendor/samsung/ceres/ceres-vendor.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
-    FrameworksResOverlayCeres
+    FrameworksResOverlayCeres \
+    SystemUIOverlayCeres
 
 # Rootdir
 PRODUCT_PACKAGES += \
