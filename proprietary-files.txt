@@ -38,3 +38,5 @@ vendor/lib64/libpqparamparser.so
 vendor/lib64/mt6765/libdpframework.so:vendor/lib64/libdpframework.so
 vendor/lib64/mt6765/libpq_prot.so:vendor/lib64/libpq_prot.so
 
+# TEE
+vendor/lib64/libTEECommon.so
