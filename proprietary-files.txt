@@ -38,6 +38,17 @@ vendor/lib64/libpqparamparser.so
 vendor/lib64/mt6765/libdpframework.so:vendor/lib64/libdpframework.so
 vendor/lib64/mt6765/libpq_prot.so:vendor/lib64/libpq_prot.so
 
+# Media
+vendor/lib/AVCSecureVdecCA.so
+vendor/lib/libcodec2_mtk_c2store.so
+vendor/lib/libcodec2_mtk_vdec.so
+vendor/lib/libcodec2_mtk_venc.so
+vendor/lib/libcodec2_vpp_qt_plugin.so
+vendor/lib/libcodec2_vpp_rs_plugin.so
+vendor/lib/libformatter.so
+vendor/lib/libvcodec_utility.so
+vendor/lib/libvcodecdrv.so
+
 # NVRAM
 vendor/bin/fuelgauged_nvram
 vendor/bin/nvram_daemon
