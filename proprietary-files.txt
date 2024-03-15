@@ -38,6 +38,20 @@ vendor/lib64/libpqparamparser.so
 vendor/lib64/mt6765/libdpframework.so:vendor/lib64/libdpframework.so
 vendor/lib64/mt6765/libpq_prot.so:vendor/lib64/libpq_prot.so
 
+# NVRAM
+vendor/bin/fuelgauged_nvram
+vendor/bin/nvram_daemon
+vendor/lib/libcustom_nvram.so
+vendor/lib/libfgauge_gm30.so
+vendor/lib/libfile_op.so
+vendor/lib/libnvram.so
+vendor/lib/libnvram_sec.so
+vendor/lib64/hw/vendor.mediatek.hardware.nvram@1.1-impl.so
+vendor/lib64/libcustom_nvram.so
+vendor/lib64/libfile_op.so
+vendor/lib64/libnvram.so
+vendor/lib64/libnvram_sec.so
+
 # TEE
 vendor/lib64/libTEECommon.so
 
