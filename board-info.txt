@@ -1,0 +1,1 @@
+require board=a04e|ceres|f04|m04
